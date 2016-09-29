@@ -21,10 +21,6 @@ Then add **hubot-applause** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+user1>> hubot applause
+hubot>> http://i.imgur.com/pfrtv6H.gif
 ```
-
-## NPM Module
-
-https://www.npmjs.com/package/hubot-applause
