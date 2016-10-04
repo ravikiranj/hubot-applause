@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-applause.git"
+    "url": "git://github.com/ravikiranj/hubot-applause.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-applause/issues"
+    "url": "https://github.com/ravikiranj/hubot-applause/issues"
   },
 
   "dependencies": {
