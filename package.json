@@ -3,7 +3,7 @@
   "description": "Applause script",
   "version": "1.0.0",
   "author": "ravikiran.j.127@gmail.com",
-  "license": "MIT",
+  "license": "BSD-2-Clause",
 
   "keywords": "hubot, applause, hubot-applause",
 
